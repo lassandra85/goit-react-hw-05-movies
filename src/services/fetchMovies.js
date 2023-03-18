@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const searchParams = new URLSearchParams({
-  api_key: '20e13b9a04a0b41c58cfa9dd598a635c',
+  api_key: 'c64c6192569c768cc4f900b3c43ea735',
   language: 'en-US',
   include_adult: false,
 });
